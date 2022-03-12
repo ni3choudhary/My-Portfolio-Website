@@ -1227,12 +1227,12 @@ footer span a:hover{
     }
     
 } 
-@media (max-width: 493px){
+@media (max-width: 492px){
     .hireme .title::before{
-        bottom: -4px;
+        bottom: -6px;
     }
     .hireme .title::after{
-        bottom: -30px;
+        bottom: -28px;
     }  
     .hireme a{
         left: 38%;
