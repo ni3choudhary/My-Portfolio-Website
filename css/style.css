@@ -141,6 +141,9 @@ img{
     cursor: pointer;
     display: none;
 }
+.menu-btn i{
+    margin-right: 40px;
+}
 
 .menu-btn.active{
     background-color: crimson;
@@ -1239,6 +1242,9 @@ footer span a:hover{
     .max-width{
         padding: 0 5px;
     }
+    .menu-btn i{
+        margin-right: 60px;
+    }
     .services a{
         left:35%;
     }
@@ -1255,6 +1261,9 @@ footer span a:hover{
 }
 
 @media (max-width: 312px){
+    .menu-btn i{
+        margin-right: 90px;
+    }
     .contact .contact-content .row .info{
         margin-left: 2px;
     }
