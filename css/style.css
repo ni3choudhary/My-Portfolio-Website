@@ -82,6 +82,9 @@ img{
     max-width: 100%;
     vertical-align:middle;
 }
+a, button{
+    -webkit-tap-highlight-color: transparent !important;
+}
 
 
 /* navbar styling */
