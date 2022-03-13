@@ -451,7 +451,7 @@ a, button{
 }
 .services a{
     position: relative;
-    left: 45%;
+    left: 44%;
     top: 50%;
     display: inline-block;
     background: crimson;
@@ -1200,7 +1200,7 @@ footer span a:hover{
         font-size: 19px;
     }
     .services a{
-        left: 37%;
+        left: 38%;
         padding: 4px 4px;
     }
     .contact .right form .fields{
